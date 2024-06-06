@@ -1,0 +1,83 @@
+body{
+    background-color: rgb(223, 243, 111);
+}
+
+.img_anime{
+    width: 250px;
+    height: 300px;
+}
+ footer a{
+     border: 6px blue solid;
+     padding: 7px;
+     margin: 6px;
+     border-radius: 15px;
+     text-decoration: none;
+     background-color: rgb(147, 243, 203);
+     color: rgb(68, 10, 10);
+ }
+ article{
+     display: flex;
+     border: 5px rgb(124, 189, 21) solid;
+     padding: 4px;
+     margin: 6px;
+     border-radius: 10px;
+     background-color: aqua;
+     color: black;
+     justify-content: space-between;
+     align-items: center;
+ }
+
+ .NB{
+     /* width: 35%; */
+ }
+
+.A3{
+  background-color: greenyellow;
+  border-color: goldenrod;
+}
+
+.A2{
+    background-color: orange;
+    border-color: blue;
+}
+
+.A1{
+    background-color: rgb(120, 143, 243);
+    border-color: rgb(197, 51, 173);
+}
+
+.W{
+   height: 100px;
+}
+
+.W:hover{
+    transform: scale(3);
+    transition: all linear 4s;
+}
+
+.G{
+    height: 90px;
+}
+
+.G:hover{
+    transform: scale(3);
+    transition: all linear 4s;
+}
+
+.H{
+    height: 85px;
+}
+
+.H:hover{
+    transform: scale(3);
+    transition: all linear 4s;
+}
+
+.O{
+    height: 90px;
+}
+
+.O:hover{
+    transform: scale(3);
+    transition: all linear 4s;
+}
